@@ -1,0 +1,32 @@
+.shohuj{
+    background-color: green;
+    width: 700px;
+    height: 350px;
+    position: relative;
+    overflow: hidden;
+    margin: 50px auto;
+    
+}
+.lal{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+.lal img{
+    width: 150px;
+   
+    display: block;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
